@@ -1,0 +1,1 @@
+save as light_game.sh, make executable. The game will present a menu with options to turn on the light, turn off the light, or quit the game. When you select an option, the corresponding ASCII graphic will be displayed, along with a message indicating whether the light is on or off.
